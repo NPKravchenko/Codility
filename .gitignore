@@ -10,6 +10,16 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# build
+*/build/*
+RectangleBuilder/.gradle/*
+RectangleBuilder/.idea/*
+RectangleBuilder/build.gradle
+RectangleBuilder/gradle/*
+RectangleBuilder/gradlew
+RectangleBuilder/gradlew.bat
+RectangleBuilder/settings.gradle
+
 # Package Files #
 *.jar
 *.war
