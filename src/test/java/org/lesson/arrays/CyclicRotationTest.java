@@ -1,7 +1,6 @@
 package org.lesson.arrays;
 
 import junit.framework.TestCase;
-
 import java.util.Arrays;
 
 public class CyclicRotationTest extends TestCase {
